@@ -270,6 +270,8 @@ function showPage(pageName) {
         statsAnimated = false;
         // Delay slightly so the page is visible before checking viewport
         setTimeout(checkStatsInView, 100);
+        // ✅ EMOJI FIX: Restart the canvas animation
+        resumeCanvas();
     }
 
     // FIX: Re-render insights when opening that page (in case content loaded after first paint)
