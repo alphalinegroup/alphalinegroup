@@ -116,7 +116,7 @@
             "key": "turnkey"
         },
         {
-            "icon": "🏘",
+            "icon": "img/residential.jpeg",
             "title": "Residential & Commercial Construction",
             "preview": "Engineered homes, villas, apartments, offices, and commercial spaces designed for durability and long-term value.",
             "key": "construction"
@@ -192,7 +192,7 @@
     "articles": [{
             "title": "Engineering-Led Construction: Why It Matters",
             "category": "Construction Strategy",
-            "image": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+            "image": "img/2Article.jpeg",
             "excerpt": "Engineering discipline is the difference between projects that survive and projects that fail financially.",
             "content": "Engineering-led construction ensures that every decision during the building process is driven by structural logic, financial efficiency, and long-term durability. Instead of improvisation during execution, projects are engineered from the start.\n\nThis approach reduces costly design errors, eliminates unnecessary material waste, and ensures buildings remain structurally efficient over decades. Developers who adopt engineering-first methodologies consistently achieve stronger financial returns because project risks are minimized before construction begins.",
             "author": "Alpha Line Team",
@@ -201,7 +201,7 @@
         {
             "title": "Cost Optimization in Real Estate Development",
             "category": "Investment",
-            "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+            "image": "img/1Article.jpeg",
             "excerpt": "Before construction begins, financial structure determines whether a project becomes an asset or a liability.",
             "content": "Cost optimization is one of the most critical elements in successful real estate development. It does not mean cutting corners or lowering quality. Instead, it means designing the project with financial intelligence.\n\nThrough value engineering, material optimization, and detailed BOQ preparation, developers can eliminate unnecessary costs before construction begins. This process allows projects to maintain quality while protecting investor capital and maximizing long-term profitability.",
             "author": "Alpha Line Team",
@@ -210,7 +210,7 @@
         {
             "title": "Designing Buildings for Long-Term Rental Income",
             "category": "Real Estate",
-            "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+            "image": "img/3Article.jpeg",
             "excerpt": "Rental performance is determined during design, not after construction.",
             "content": "Rental income properties must be designed with efficiency and tenant demand in mind. Layout optimization, structural durability, and infrastructure planning directly influence long-term profitability.\n\nBuildings that are engineered for maintenance efficiency and functional living spaces attract stable tenants and maintain higher occupancy rates. Investors who prioritize design strategy during the planning stage consistently outperform those who treat design as a purely aesthetic exercise.",
             "author": "Alpha Line Team",
@@ -222,78 +222,140 @@
 
 
     "projects": [{
-            "image": "img/precisioneng.jpeg",
+            "image": "img/4File .jpeg",
             "category": "residential",
             "title": "Skyline Modern Villa",
             "description": "A stunning 5-bedroom contemporary masterpiece featuring smart home integration and sustainable design.",
             "gallery": [
                 "img/sitepreparation.jpeg",
-                "img/Structural.jpeg",
-                "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=600&h=400&fit=crop"
+                "img/5File .jpeg",
+                "img/1File .jpeg",
+                "img/2File .jpeg",
+                "img/12File .jpeg",
+                "img/13File .jpeg",
+                "img/14File .jpeg",
+                "img/15File .jpeg",
+                "img/0File.jpeg",
+                "img/1File.jpeg"
+
+
             ]
         },
         {
-            "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+            "image": "img/1commercial.jpeg",
             "category": "commercial",
             "title": "Apex Corporate Tower",
-            "description": "25-story state-of-the-art office complex with LEED Platinum certification.",
+            "description": " state-of-the-art Commercial partitions",
             "gallery": [
-                "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop"
+                "img/2commercial.jpeg",
+                "img/3commercial.jpeg",
+                "img/4commercial.jpeg",
+                "img/5commercial.jpeg"
+
             ]
         },
         {
-            "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+            "image": "img/6File .jpeg",
             "category": "residential",
-            "title": "Lakeside Estate",
-            "description": "Luxury waterfront property with panoramic views and custom architectural details.",
+            "title": "Real Estate",
+            "description": "Luxury property with panoramic views and custom architectural details.",
             "gallery": [
-                "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=600&h=400&fit=crop"
+                "img/7File .jpeg",
+                "img/8File .jpeg",
+                "img/9File .jpeg",
+                "img/10File .jpeg",
+                "img/25File.jpeg",
+                "img/26File.jpeg",
+                "img/27File.jpeg",
+                "img/28File.jpeg",
+                "img/29File.jpeg",
+                "img/30File.jpeg"
             ]
         },
         {
-            "image": "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=800&h=600&fit=crop",
+            "image": "img/4renovation.jpeg",
             "category": "renovation",
-            "title": "Historic Downtown Loft",
-            "description": "Complete transformation of a 1920s warehouse into modern luxury living spaces.",
+            "title": "Residential Renovation",
+            "description": "Complete transformation of residential house",
             "gallery": [
-                "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1556912167-f556f1f39faa?w=600&h=400&fit=crop"
+                "img/1renovation.jpeg",
+                "img/2renovation.jpeg",
+                "img/3renovation.jpeg",
+                "img/4renovation.jpeg"
             ]
         },
         {
-            "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&h=600&fit=crop",
+            "image": "img/16File.jpeg",
             "category": "commercial",
-            "title": "Metro Shopping Plaza",
-            "description": "Premium retail space featuring cutting-edge design and customer experience.",
+            "title": "King Faisal Hospital.",
+            "description": "drainage infrastructure works at King Faisal Hospital.",
             "gallery": [
-                "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=600&h=400&fit=crop"
+                "img/16File.jpeg",
+                "img/17File.jpeg",
+                "img/18File.jpeg",
+                "img/19File.jpeg"
             ]
         },
+
+
         {
-            "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+            "image": "img/6ecofriendly.jpeg",
             "category": "residential",
-            "title": "Alpine Mountain Retreat",
+            "title": "Eco friendly",
             "description": "Eco-friendly mountain home blending modern design with natural surroundings.",
             "gallery": [
-                "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=600&h=400&fit=crop",
-                "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=600&h=400&fit=crop"
+                "img/1ecofriendly.jpeg",
+                "img/2ecofriendly.jpeg",
+                "img/3ecofriendly.jpeg",
+                "img/4ecofriendly.jpeg",
+                "img/5ecofriendly.jpeg",
+                "img/6ecofriendly.jpeg",
+                "img/7ecofriendly.jpeg",
+                "img/8ecofriendly.jpeg",
+                "img/9ecofriendly.jpeg"
+
+            ]
+        },
+
+        {
+            "image": "img/23File.jpeg",
+            "category": "residential",
+            "title": "Turnkey",
+            "description": "Turnkey residential building",
+            "gallery": [
+                "img/21File.jpeg",
+                "img/22File.jpeg",
+                "img/23File.jpeg",
+                "img/24File.jpeg"
+
+            ]
+        },
+
+        {
+            "image": "img/31File.jpeg",
+            "category": "renovation",
+            "title": "Residential",
+            "description": "Residential renovation",
+            "gallery": [
+                "img/35File.jpeg",
+                "img/32File.jpeg",
+                "img/34File.jpeg",
+                "img/36File.jpeg",
+                "img/37File.jpeg",
+                "img/38File.jpeg"
             ]
         }
+
+
+
+
     ],
+
+
+
+
+
+
     "contact": [{
             "icon": "📍",
             "title": "Address",
@@ -316,7 +378,7 @@
         }
     ],
     "footer": {
-        "description": "Start Your Project with structure and right consultancy. Whether you are building your home, investing in property, or seeking cost-optimized execution, Alpha Line Group is ready to engineer your vision.",
+        "description": "",
         "quickLinks": [
             "Home",
             "About Us",
