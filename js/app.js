@@ -606,3 +606,32 @@ window.addEventListener('load', () => {
     revealOnScroll();
     checkStatsInView();
 });
+
+// ===== CONTACT FORM (mailto: approach like Bright Tone Events) =====
+const contactForm = document.getElementById('contactForm');
+const submitBtn = document.getElementById('form-submit');
+const successDiv = document.getElementById('form-success');
+
+if (contactForm && submitBtn) {
+    contactForm.addEventListener('submit', e => {
+        e.preventDefault();
+        
+        const name = document.getElementById('f-name').value.trim();
+        const email = document.getElementById('f-email').value.trim();
+        const phone = document.getElementById('f-phone').value.trim();
+        const project = document.getElementById('f-project').value.trim();
+        const message = document.getElementById('f-message').value.trim();
+        
+        const subject = encodeURIComponent(`Project Inquiry — ${project} — ${name}`);
+        const body = encodeURIComponent(
+            `Name: ${name}\nEmail: ${email}\nPhone: ${phone}\nProject Type: ${project}\n\nMessage:\n${message}`
+        );
+        
+        window.location.href = `mailto:info@alphalinegroupe.com?subject=${subject}&body=${body}`;
+        
+        setTimeout(() => {
+            contactForm.style.display = 'none';
+            if (successDiv) successDiv.style.display = 'block';
+        }, 500);
+    });
+}
