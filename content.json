@@ -110,7 +110,7 @@
         }
     ],
     "services": [{
-            "icon": "img/turnkey.svg",
+            "icon": "img/1Skyline Modern Villa.jpeg",
             "title": "Turnkey Design & Build",
             "preview": "Complete project delivery from foundation to handover with full architectural, engineering, and construction coordination.",
             "key": "turnkey"
@@ -222,12 +222,12 @@
 
 
     "projects": [{
-            "image": "img/1Skyline Modern Villa.jpeg",
+            "image": "img/file.jpeg",
             "category": "residential",
             "title": "Contemporary Islamic Architecture",
             "description": "Contemporary Islamic Architecture : Basement, G+2 luxury residence",
             "gallery": [
-                "img/4File .jpeg",
+                "img/file.jpeg",
                 "img/0File.jpeg",
                 "img/5File .jpeg",
                 "img/2Skyline Modern Villa.jpeg",
@@ -303,8 +303,8 @@
 
                 "img/eco.jpeg",
                 "img/9ecofriendly.jpeg",
-                "img/1ecofriendly.jpeg",
                 "img/3ecofriendly.jpeg",
+                "img/1ecofriendly.jpeg",
                 "img/4ecofriendly.jpeg",
                 "img/5ecofriendly.jpeg",
                 "img/6ecofriendly.jpeg"
