@@ -222,21 +222,25 @@
 
 
     "projects": [{
-            "image": "img/4File .jpeg",
+            "image": "img/1Skyline Modern Villa.jpeg",
             "category": "residential",
-            "title": "Skyline Modern Villa",
-            "description": "A stunning 5-bedroom contemporary masterpiece featuring smart home integration and sustainable design.",
+            "title": "Contemporary Islamic Architecture",
+            "description": "Contemporary Islamic Architecture : Basement, G+2 luxury residence",
             "gallery": [
                 "img/sitepreparation.jpeg",
-                "img/14File .jpeg",
-                "img/5File .jpeg",
-                "img/1File .jpeg",
-                "img/2File .jpeg",
-                "img/12File .jpeg",
-                "img/13File .jpeg",
-                "img/15File .jpeg",
                 "img/0File.jpeg",
-                "img/1File.jpeg"
+                "img/5File .jpeg",
+                "img/2Skyline Modern Villa.jpeg",
+                "img/1File .jpeg",
+                "img/1Skyline Modern Villa.jpeg",
+                "img/13File .jpeg",
+                "img/2File .jpeg"
+
+
+
+
+
+
 
 
             ]
@@ -244,8 +248,8 @@
         {
             "image": "img/1commercial.jpeg",
             "category": "commercial",
-            "title": "Apex Corporate Tower",
-            "description": " state-of-the-art Commercial partitions",
+            "title": "Partition",
+            "description": " Drywall & Partition Works",
             "gallery": [
                 "img/2commercial.jpeg",
                 "img/3commercial.jpeg",
@@ -254,42 +258,33 @@
 
             ]
         },
+
+
         {
-            "image": "img/6File .jpeg",
+            "image": "img/29File.jpeg",
             "category": "residential",
-            "title": "Real Estate",
-            "description": "Luxury property with panoramic views and custom architectural details.",
+            "title": "Family House",
+            "description": "Modern Contemporary G+1 residence",
             "gallery": [
-                "img/7File .jpeg",
-                "img/8File .jpeg",
+                "img/1residential2.jpeg",
+                "img/2residential2.jpeg",
                 "img/9File .jpeg",
                 "img/10File .jpeg",
                 "img/25File.jpeg",
-                "img/26File.jpeg",
-                "img/27File.jpeg",
                 "img/28File.jpeg",
-                "img/29File.jpeg",
-                "img/30File.jpeg"
+                "img/29File.jpeg"
             ]
         },
-        {
-            "image": "img/4renovation.jpeg",
-            "category": "renovation",
-            "title": "Residential Renovation",
-            "description": "Complete transformation of residential house",
-            "gallery": [
-                "img/1renovation.jpeg",
-                "img/2renovation.jpeg",
-                "img/3renovation.jpeg",
-                "img/4renovation.jpeg"
-            ]
-        },
+
         {
             "image": "img/16File.jpeg",
             "category": "commercial",
             "title": "King Faisal Hospital.",
-            "description": "drainage infrastructure works at King Faisal Hospital.",
+            "description": "Drainage infrastructure works at King Faisal Hospital.",
             "gallery": [
+                "img/1faisal.jpeg",
+                "img/2faisal.jpeg",
+                "img/3faisal.jpeg",
                 "img/16File.jpeg",
                 "img/17File.jpeg",
                 "img/18File.jpeg",
@@ -304,15 +299,17 @@
             "title": "Eco friendly",
             "description": "Eco-friendly mountain home blending modern design with natural surroundings.",
             "gallery": [
-                "img/1ecofriendly.jpeg",
                 "img/2ecofriendly.jpeg",
+                "img/7ecofriendly.jpeg",
+
+                "img/eco.jpeg",
+                "img/9ecofriendly.jpeg",
+                "img/1ecofriendly.jpeg",
                 "img/3ecofriendly.jpeg",
                 "img/4ecofriendly.jpeg",
                 "img/5ecofriendly.jpeg",
-                "img/6ecofriendly.jpeg",
-                "img/7ecofriendly.jpeg",
-                "img/8ecofriendly.jpeg",
-                "img/9ecofriendly.jpeg"
+                "img/6ecofriendly.jpeg"
+
 
             ]
         },
@@ -321,12 +318,17 @@
             "image": "img/23File.jpeg",
             "category": "residential",
             "title": "Turnkey",
-            "description": "Turnkey residential building",
+            "description": "Luxury Mediterranean G+1 Residence",
             "gallery": [
-                "img/21File.jpeg",
-                "img/22File.jpeg",
+
+                "img/3mediteranian.jpeg",
+                "img/2mediteranian.jpeg",
+                "img/0mediteranian.jpeg",
+                "img/1mediteranian.jpeg",
                 "img/23File.jpeg",
-                "img/24File.jpeg"
+                "img/15File .jpeg",
+                "img/1File.jpeg",
+                "img/12File .jpeg"
 
             ]
         },
@@ -335,8 +337,14 @@
             "image": "img/31File.jpeg",
             "category": "renovation",
             "title": "Residential",
-            "description": "Residential renovation",
+            "description": "Grand Family Residence",
             "gallery": [
+                "img/10residentialrennovation2.jpeg",
+                "img/11residentialrennovation2.jpeg",
+                "img/13residentialrennovation2.jpeg",
+                "img/3residentialrennovation2.jpeg",
+                "img/2residentialrennovation2.jpeg",
+                "img/1residentialrennovation2.jpeg",
                 "img/35File.jpeg",
                 "img/32File.jpeg",
                 "img/34File.jpeg",
@@ -378,7 +386,7 @@
         }
     ],
     "footer": {
-        "description": "",
+        "description": "Start Your Project with structure and right consultancy. Whether you are building your home, investing in property, or seeking cost-optimized execution, Alpha Line Group is ready to engineer your vision.",
         "quickLinks": [
             "Home",
             "About Us",
