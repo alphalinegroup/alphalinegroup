@@ -54,7 +54,7 @@
     ],
     "capabilities": [{
             "title": "Turnkey Design & Build Delivery",
-            "image": "img/turnkey.jpeg",
+            "image": "img/1Skyline Modern Villa.jpeg",
             "description": "We provide fully integrated project delivery, assuming total responsibility from initial design coordination to final handover.",
             "list": [
                 "Architectural & Engineering Coordination",
@@ -110,7 +110,7 @@
         }
     ],
     "services": [{
-            "icon": "img/1Skyline Modern Villa.jpeg",
+            "icon": "img/turnkey.svg",
             "title": "Turnkey Design & Build",
             "preview": "Complete project delivery from foundation to handover with full architectural, engineering, and construction coordination.",
             "key": "turnkey"
